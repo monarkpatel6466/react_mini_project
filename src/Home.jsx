@@ -15,7 +15,7 @@ export default function Home(){
                             <Link className="primary-btn" to="/features">Learn More</Link>
                         </div>
                         <div className="image">
-                            <img src={BannerImage} alt="banner" />
+                            <img src="/images/banner.png" alt="banner" />
                         </div>
                     </div>
                 </div>
