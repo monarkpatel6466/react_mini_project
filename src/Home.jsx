@@ -1,4 +1,4 @@
-import BannerImage from "./assets/images/banner.png"
+// import BannerImage from "./assets/images/banner.png"
 import { Link } from "react-router"
 import Features from "./Features"
 
